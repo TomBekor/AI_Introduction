@@ -1,7 +1,7 @@
 # AI_Introduction
-In order to run the project you need to download the 6 csv files to the running environment.
-The pre prossesing notebook (preprossesing.ipynb) which made those files is seperate from the running notebook (main notebook.ipynb)
-
-At the second cell you can choose rether to read the red csv's or the white ones.
-
-The csv clean_red(/white) is the data after cleaning it using Weka.
+Clone this repository with the command:
+```
+git clone https://github.com/TomBekor/AI_Introduction.git
+```
+Open with jupyter notebook the file ``main_notebook.ipynb`` and press ``Cell`` -> ``Run All``.
+To check the results of ``main_notebook.ipynb`` without running the whole project, view it from this github repository.
